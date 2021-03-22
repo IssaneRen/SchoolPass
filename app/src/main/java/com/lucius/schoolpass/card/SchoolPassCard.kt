@@ -27,6 +27,7 @@ class SchoolPassCard {
     var studentDepartment = NAME_UNDEFINE
     var studentMajor = NAME_UNDEFINE
     var studentGrade = NAME_UNDEFINE
+    var studentClass = NAME_UNDEFINE
 
     /**
      * 通行证审批人 / 执行人
